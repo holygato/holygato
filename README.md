@@ -25,7 +25,7 @@
 
 <div style="display: inline_block" >
   <a href="https://github.com/holygato">
-  <img height="140px" width="50%" align="left" margin="0" src="https://github-readme-stats.vercel.app/api?username=holygato_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide=issues&locale=pt-br"/> 
+  <img height="140px" width="50%" align="left" margin="0" src="https://github-readme-stats.vercel.app/api?username=holygato&show=true&theme=gotham&include_all_commits=true&count_private=true&hide=issues&locale=pt-br"/> 
   </a>
 </div>
 
