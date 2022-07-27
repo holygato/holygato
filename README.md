@@ -1,5 +1,5 @@
 ## Meu nome é Samuel, seja muito bem vindo (a) ao meu perfil do GitHub!
-  - Estudante de Desenvolvimento Web na Trybe
+  - Estudante de Desenvolvimento Web na Trybe.
   - Formado em Front-End e futuro Desenvolvedor Full-Stack.
 </br>
 
