@@ -1,3 +1,8 @@
+## Meu nome é Samuel, seja muito bem vindo (a) ao meu perfil do GitHub!
+  - Estudante de Desenvolvimento Web na Trybe
+  - Formado em Front-End e futuro Desenvolvedor Full-Stack.
+</br>
+
 ## STACKS
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
