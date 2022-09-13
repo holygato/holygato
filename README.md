@@ -23,7 +23,7 @@
   <img align="center" alt="Styled Components" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" /> 
   <img align="center" alt="JWT" height="30" width="40" src="https://img.icons8.com/color/480/java-web-token.png" /> 
   <img align="center" alt="Joi" height="30" width="40" src="https://joi.dev/img/joiLogo.jpg" /> 
-  <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
+  <img align="center" alt="Express" height="30" width="40" src="https://e7.pngegg.com/pngimages/212/722/png-clipart-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue.png" /> 
   <img align="center" alt="Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" /> 
   <img align="center" alt="Chai" height="30" width="40" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" /> 
   <img align="center" alt="Mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" /> 
