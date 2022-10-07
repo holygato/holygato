@@ -29,7 +29,7 @@
   <img align="center" alt="Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" /> 
   <img align="center" alt="Chai" height="30" width="40" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" /> 
   <img align="center" alt="Mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" /> 
-  <img align="center" alt="MongoDB" height="30" width="40" src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> 
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> 
 </div>
 
 ## CONTACT
