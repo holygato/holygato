@@ -1,6 +1,18 @@
 ## Meu nome é Samuel, seja muito bem vindo (a) ao meu perfil do GitHub!
-  - Estudante de Desenvolvimento Web na Trybe.
-  - Formado em Front-End e futuro Desenvolvedor Full-Stack.
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=luacomacento&label=Profile%20views&color=0e75b6&style=flat" alt="luacomacento" /> </p>
+
+- 🌱 Estudante de Desenvolvimento Web na Trybe, formado em Front-End, cursando Back-End e futuro Desenvolvedor Full-Stack.
+
+- 👯 Procuro colaborar em projetos de **React.js ou Node.js**
+
+- 👨‍💻 Você pode acessar meus projetos em [imsamuelcovalero.github.io](https://imsamuelcovalero.github.io/)
+
+- 📫 Me contacte em **reis_samuel@hotmail.com**
+
+<br />
+<h3 align="center">Conect se comigo:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/samuelcovalero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelcovalero" height="30" width="32" /></a>
 </br>
 
 ## STACKS
