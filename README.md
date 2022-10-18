@@ -5,9 +5,9 @@
 
 - 👯 Procuro colaborar em projetos de **React.js ou Node.js**
 
-- 👨‍💻 Você pode acessar meus projetos em [imsamuelcovalero.github.io](https://imsamuelcovalero.github.io/)
+- 👨‍💻 Você pode acessar meus projetos em: [imsamuelcovalero.github.io](https://imsamuelcovalero.github.io/)
 
-- 📫 Me contacte em **reis_samuel@hotmail.com**
+- 📫 Me contacte em: **reis_samuel@hotmail.com**
 
 <br />
 <h3 align="center">Conect-se comigo:</h3>
