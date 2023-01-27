@@ -1,7 +1,7 @@
 ## Meu nome é Samuel, seja muito bem vindo (a) ao meu perfil do GitHub!
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=luacomacento&label=Profile%20views&color=0e75b6&style=flat" alt="luacomacento" /> </p>
 
-- 🌱 Estudante de Desenvolvimento Web na Trybe, formado em Front-End, cursando Back-End e futuro Desenvolvedor Full-Stack.
+- 🌱 Estudante de Desenvolvimento Web na Trybe, formado em Front-End e Back-End e cursando Ciência da Computação. Futuro Desenvolvedor Full-Stack.
 
 - 👯 Procuro colaborar em projetos de **React.js ou Node.js**
 
