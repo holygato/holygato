@@ -59,3 +59,5 @@
   <img height="140px" align="right" width="43%" margin="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holygato&layout=compact&langs_count=7&theme=gotham&locale=pt-br"/>
   </a>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsamuelcovalero&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats
