@@ -50,14 +50,16 @@
 
 <div style="display: inline_block" >
   <a href="https://github.com/holygato">
-  <img height="140px" width="50%" align="left" margin="0" src="https://github-readme-stats.vercel.app/api?username=holygato&show=true&theme=gotham&include_all_commits=true&count_private=true&hide=issues&locale=pt-br"/> 
+  <img height="140px" width="50%" align="left" margin="0" src="https://github-readme-stats.vercel.app/api?username=imsamuelcovalero&show=true&theme=gotham&include_all_commits=true&count_private=true&hide=issues&locale=pt-br"/> 
   </a>
 </div>
 
 <div style="display: inline_block" >
   <a href="https://github.com/holygato">
-  <img height="140px" align="right" width="43%" margin="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holygato&layout=compact&langs_count=7&theme=gotham&locale=pt-br"/>
+  <img height="140px" align="right" width="43%" margin="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsamuelcovalero&layout=compact&langs_count=7&theme=gotham&locale=pt-br"/>
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsamuelcovalero&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imsamuelcovalero&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsamuelcovalero&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
