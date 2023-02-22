@@ -3,7 +3,7 @@
 
 - 🌱 Estudante de Desenvolvimento Web na Trybe, formado em Front-End e Back-End e cursando Ciência da Computação. Futuro Desenvolvedor Full-Stack.
 
-- 👯 Procuro colaborar em projetos de **React.js ou Node.js**
+- 👯 Procuro colaborar em projetos de **React.js, Node.js ou Python**
 
 - 👨‍💻 Você pode acessar meus projetos em: [imsamuelcovalero.github.io](https://imsamuelcovalero.github.io/)
 
