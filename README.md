@@ -1,5 +1,5 @@
 ## Meu nome é Samuel, seja muito bem vindo (a) ao meu perfil do GitHub!
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=luacomacento&label=Profile%20views&color=0e75b6&style=flat" alt="luacomacento" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsamuelcovalero&label=Profile%20views&color=0e75b6&style=flat" alt="imsamuelcovalero" /> </p>
 
 - 🌱 Desenvolvedor Full-Stack.
 
