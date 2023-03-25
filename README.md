@@ -53,7 +53,7 @@
 <details>
 <summary>Tools list / Lista de Tecnologias </summary><br>
 
-  Github, VSCode, Slack, Trello, Docker, Git, NPM, Redux, Jest, RTL, Styled Components, NodeJS, REST API, MySQL, JWT, Joi, Express, Sequelize, Chai, Mocha, MongoDB
+  Github, VSCode, Slack, Trello, Docker, Git, NPM, Redux, Jest, RTL, Styled Components, REST API, MySQL, JWT, Joi, Express, Sequelize, Chai, Mocha, MongoDB
 
 </details>
 
