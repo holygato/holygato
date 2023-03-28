@@ -125,7 +125,7 @@ I enjoy meeting people and exchanging experiences / Gosto de conhecer pessoas e 
 <div>
 | Author / Autor: <a href="https://github.com/imsamuelcovalero" target="_blank">Samuel</a>
 <br />
-| Last update / Última atualização: 24/03/2023
+| Last update / Última atualização: 28/03/2023
 </div>
 
 
