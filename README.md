@@ -73,11 +73,13 @@
 
 Currently, I am studying and improving my skills in some technologies, and also planning to learn others that I haven't started yet / Atualmente, estou estudando e aprimorando meus conhecimentos em algumas tecnologias, além de planejar o estudo de outras ainda não iniciadas. Confira abaixo:
 
+<div align="center" style="display: inline_block"><br>
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank" title="C#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
 <a href="https://angular.io/" target="_blank" title="Angular"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
 <a href="https://www.java.com/pt-BR/" target="_blank" title="Java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=Artificial Inteligence&logoColor=white" />
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=Artificial Inteligence&logoColor=white" /><br >
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=Artificial Inteligence&logoColor=white" />
+</div><br >
 
 ## 🚀 Personal Projects / Projetos Pessoais
 
@@ -113,7 +115,7 @@ I enjoy meeting people and exchanging experiences / Gosto de conhecer pessoas e 
 </div>
 </div>
 
-<div>
+<div style="margin-top: 100px">
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imsamuelcovalero&theme=github_dark"/>
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imsamuelcovalero&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imsamuelcovalero&theme=github_dark"/>
