@@ -113,11 +113,24 @@ I enjoy meeting people and exchanging experiences / Gosto de conhecer pessoas e 
 </div>
 </div>
 
+<div>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imsamuelcovalero&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imsamuelcovalero&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imsamuelcovalero&theme=github_dark"/>
+</div>
+
 ---
 
-## <br /><br /><br /><br />
 <div>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=imsamuelcovalero&label=Profile%20views&color=0e75b6&style=flat" alt="imsamuelcovalero" /> </p>
+<img src="https://img.shields.io/badge/Python-Enthusiast-blue?logo=Python"/>
+<img src="https://img.shields.io/badge/JavaScript-Expert-blue"/>
+<img src="https://img.shields.io/badge/TDD-Enthusiast-blue"/>
+<img src="https://img.shields.io/badge/Clean%20Code-Evangelist-blue"/>
+<img src="https://img.shields.io/badge/Open%20Source-Lover-blue"/>
+<br />
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=imsamuelcovalero"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/imsamuelcovalero?style=social"/>
+<img alt="Followers" src="https://img.shields.io/github/followers/imsamuelcovalero?style=social"/>
 </div>
 
 ---
