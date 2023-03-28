@@ -101,24 +101,19 @@ I enjoy meeting people and exchanging experiences / Gosto de conhecer pessoas e 
 
 ## 📈 GitHub Stats / Estatísticas do GitHub
 
-<div>
-<div style="display: inline_block" >
+<div align="center" style="display: inline_block" >
   <a href="https://github.com/holygato">
   <img height="140px" width="50%" align="left" margin="0" src="https://github-readme-stats.vercel.app/api?username=imsamuelcovalero&show=true&theme=gotham&include_all_commits=true&count_private=true&hide=issues&locale=pt-br"/> 
-  </a>
-</div>
-
-<div style="display: inline_block" >
-  <a href="https://github.com/holygato">
   <img height="140px" align="right" width="43%" margin="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsamuelcovalero&layout=compact&langs_count=7&theme=gotham&locale=pt-br"/>
   </a>
 </div>
-</div>
 
-<div style="margin-top: 100px">
+<br /><br /><br /><br /><br /><br />
+
+<div style="display: inline_block" >
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imsamuelcovalero&theme=github_dark"/>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imsamuelcovalero&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imsamuelcovalero&theme=github_dark"/>
+<img alt="GitHub Stats" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imsamuelcovalero&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imsamuelcovalero&theme=github_dark"/>
 </div>
 
 ---
