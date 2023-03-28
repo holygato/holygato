@@ -71,7 +71,7 @@
 
 ## 🌱 Learning / Estou aprendendo
 
-Currently, I am studying and improving my skills in / Atualmente, estou estudando e aprimorando meus conhecimentos em:
+Currently, I am studying and improving my skills in some technologies, and also planning to learn others that I haven't started yet / Atualmente, estou estudando e aprimorando meus conhecimentos em algumas tecnologias, além de planejar o estudo de outras ainda não iniciadas. Confira abaixo:
 
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank" title="C#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
 <a href="https://angular.io/" target="_blank" title="Angular"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
