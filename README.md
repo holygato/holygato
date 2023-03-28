@@ -27,7 +27,7 @@
 </div>
 
 ## Tools / Ferramentas
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <a href="https://github.com/" target="_blank" title="GitHub"><img align="center" alt="GitHub" height="30" width="40" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-bleu.png" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code"><img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></a>
   <a href="https://slack.com/" target="_blank" title="Slack"><img align="center" alt="SLACK" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" /></a>
