@@ -112,8 +112,8 @@ I enjoy meeting people and exchanging experiences / Gosto de conhecer pessoas e 
 
 <div style="display: inline_block" >
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imsamuelcovalero&theme=github_dark"/>
-<img alt="GitHub Stats" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imsamuelcovalero&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imsamuelcovalero&theme=github_dark"/>
+<img alt="GitHub Stats" width="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imsamuelcovalero&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imsamuelcovalero&theme=github_dark"/>
 </div>
 
 ---
