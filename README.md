@@ -11,7 +11,7 @@
 
 - 👯 I'm looking to collaborate on projects / Procuro colaborar em projetos de **React.js, Node.js ou Python**
 
-- 👨‍💻 "- 👨‍💻 You can access my projects at / Você pode acessar meus projetos em: [imsamuelcovalero.github.io](https://imsamuelcovalero.github.io/)
+- 👨‍💻 You can access my projects at / Você pode acessar meus projetos em: [imsamuelcovalero.github.io](https://imsamuelcovalero.github.io/)
 
 ---
 
