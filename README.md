@@ -127,7 +127,7 @@ I enjoy meeting people and exchanging experiences / Gosto de conhecer pessoas e 
 <img src="https://img.shields.io/badge/Clean%20Code-Evangelist-blue"/>
 <img src="https://img.shields.io/badge/Open%20Source-Lover-blue"/>
 <img src="https://img.shields.io/badge/AI-Enthusiast-blue"/>
-<img src="https://img.shields.io/badge/C#-Enthusiast-blue"/>
+<img src="https://img.shields.io/badge/CSharp-Enthusiast-blue"/>
 <br />
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=imsamuelcovalero"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/imsamuelcovalero?style=social"/>
